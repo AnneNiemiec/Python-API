@@ -1,3 +1,8 @@
+-Homework files:  WeatherPy_ATN.ipynb and VacationPy_ATN.ipynb
+-Observations:   noted in homework file (VS)
+-References: noted in homework file (VS)
+-Original Data:  csv files, cheat sheet, and starter file referenced in data folder
+
 # Python API Homework - What's the Weather Like?
 
 ## Background
